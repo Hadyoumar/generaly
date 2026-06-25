@@ -1,2 +1,2 @@
 # generaly
-Site officiel de GENERALY GROUPE
+Site officiel de GENERALY
