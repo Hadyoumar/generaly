@@ -26,7 +26,7 @@ export default function Hero() {
           </p>
 
           <h1 className="mt-8 text-5xl font-semibold leading-tight tracking-tight md:text-7xl">
-            L'impact, durablement.
+            Créer de l'impact, durablement.
           </h1>
 
           <p className="mt-8 max-w-2xl text-lg leading-8 text-black/65">
