@@ -2,9 +2,28 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "GENERALY GROUPE",
-  description:
-    "GENERALY GROUPE réunit des sociétés spécialisées dans plusieurs secteurs stratégiques afin de développer des activités complémentaires et créer une valeur durable.",
+  title: "Generaly Groupe",
+  description: "Développer durablement.",
+  icons: {
+    icon: "/favicon.png",
+    apple: "/apple-touch-icon.png",
+  },
+  openGraph: {
+    title: "Generaly Groupe",
+    description: "Développer durablement.",
+    url: "https://www.generaly.net",
+    siteName: "Generaly",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Generaly",
+      },
+    ],
+    locale: "fr_FR",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
