@@ -93,17 +93,18 @@ export default function Entities() {
     <section className="bg-[#f7f5ef] px-6 py-32">
       <div className="mx-auto max-w-7xl">
         <p className="text-sm font-semibold uppercase tracking-[0.3em] text-[#0f3d91]">
-          Nos sociétés
+          Notre démarche
         </p>
 
         <h2 className="mt-6 max-w-4xl text-4xl font-semibold tracking-tight md:text-6xl">
-          Une organisation structurée autour de sociétés spécialisées.
+          Une organisation structurée autour de pôles spécialisés.
         </h2>
 
         <p className="mt-8 max-w-4xl text-lg leading-8 text-black/60">
-          Chaque société du Groupe est dédiée à un domaine d'activité précis,
+          Nous disposons de pôles dédiés à des domaines d'activité précis 
           afin de mobiliser les compétences et les expertises adaptées à chaque
-          projet.
+          projet. 
+          .
         </p>
 
         <div className="mt-16 grid gap-6 md:grid-cols-3">

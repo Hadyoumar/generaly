@@ -10,7 +10,7 @@ export default function About() {
     <section id="groupe" className="bg-white px-6 py-32">
       <div className="mx-auto max-w-7xl">
         <p className="text-sm font-semibold uppercase tracking-[0.3em] text-[#0f3d91]">
-          Le Groupe
+          
         </p>
 
         <h2 className="mt-6 max-w-4xl text-4xl font-semibold tracking-tight md:text-6xl">
@@ -18,7 +18,7 @@ export default function About() {
         </h2>
 
         <p className="mt-8 max-w-4xl text-lg leading-8 text-black/60">
-          GENERALY GROUPE réunit et développe des activités dans plusieurs
+          GENERALY réunit et développe des activités dans plusieurs
           secteurs stratégiques. Son organisation permet de mobiliser des
           compétences complémentaires pour concevoir, structurer et accompagner
           des projets avec exigence, efficacité et responsabilité.

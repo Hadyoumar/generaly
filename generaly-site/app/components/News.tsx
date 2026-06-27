@@ -29,7 +29,7 @@ export default function Development() {
         </h2>
 
         <p className="mt-8 max-w-3xl text-lg leading-8 text-black/60">
-          GENERALY GROUPE développe ses activités avec une approche fondée sur
+          GENERALY développe ses activités avec une approche fondée sur
           la complémentarité, la création de valeur et la recherche permanente
           de solutions adaptées aux besoins de ses partenaires.
         </p>

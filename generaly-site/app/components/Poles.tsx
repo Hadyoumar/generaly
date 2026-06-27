@@ -41,7 +41,7 @@ export default function Poles() {
         </h2>
 
         <p className="mt-6 max-w-3xl text-lg leading-8 text-black/60">
-          GENERALY GROUPE développe ses activités dans plusieurs
+          GENERALY développe ses activités dans plusieurs
           secteurs stratégiques afin de construire un groupe diversifié,
           innovant et durable.
         </p>

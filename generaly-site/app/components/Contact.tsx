@@ -34,7 +34,7 @@ export default function Contact() {
           <div className="rounded-[2rem] bg-[#111111] p-10 text-white">
 
             <h3 className="text-3xl font-semibold">
-              GENERALY GROUPE
+              GENERALY
             </h3>
 
             <p className="mt-6 leading-8 text-white/65">

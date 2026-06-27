@@ -38,11 +38,11 @@ export default function Values() {
         </p>
 
         <h2 className="mt-6 max-w-5xl text-4xl font-semibold leading-tight tracking-tight md:text-6xl">
-          Les principes qui guident chacune de nos sociétés.
+          Les principes qui guident chacune de nos actions.
         </h2>
 
         <p className="mt-8 max-w-3xl text-lg leading-8 text-white/65">
-          Au-delà des secteurs d'activité, GENERALY GROUPE partage une même
+          Au-delà des secteurs d'activité, GENERALY partage une même
           culture d'entreprise fondée sur l'exigence, la responsabilité,
           l'innovation et la création de valeur durable.
         </p>

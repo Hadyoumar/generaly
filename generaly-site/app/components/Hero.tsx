@@ -30,7 +30,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-8 max-w-2xl text-lg leading-8 text-black/65">
-            GENERALY GROUPE rassemble des sociétés spécialisées dans plusieurs
+            GENERALY est une société spécialisée dans plusieurs
             secteurs stratégiques afin de développer des activités
             complémentaires, accompagner des projets et créer une valeur
             durable.

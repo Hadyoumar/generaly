@@ -28,7 +28,7 @@ export default function Footer() {
           <p className="font-semibold">Contact</p>
           <div className="mt-5 grid gap-3 text-sm text-white/60">
             <p>contact@generaly.net</p>
-            <p>GENERALY GROUPE</p>
+            <p> </p>
             <p></p>
           </div>
         </div>
