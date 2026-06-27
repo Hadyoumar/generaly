@@ -12,7 +12,7 @@ export default function Header() {
               GENERALY
             </p>
             <p className="mt-1 text-[10px] font-semibold uppercase tracking-[0.45em] text-[#0f3d91]">
-              Groupe
+              
             </p>
           </div>
         </a>

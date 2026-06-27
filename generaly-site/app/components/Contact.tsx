@@ -13,11 +13,11 @@ export default function Contact() {
 
         <div className="mb-16 max-w-3xl">
           <p className="text-sm font-semibold uppercase tracking-[0.35em] text-[#0f3d91]">
-            Contact
+            
           </p>
 
           <h2 className="mt-6 text-4xl font-semibold tracking-tight md:text-6xl">
-            Échangeons sur vos projets.
+            Échangeons.
           </h2>
 
           <p className="mt-6 text-lg leading-8 text-black/60">
@@ -38,7 +38,7 @@ export default function Contact() {
             </h3>
 
             <p className="mt-6 leading-8 text-white/65">
-              Holding développant des activités complémentaires
+              Nous développons des activités complémentaires
               dans plusieurs secteurs stratégiques.
             </p>
 
@@ -49,7 +49,7 @@ export default function Contact() {
                 <div>
                   <p className="font-semibold">Email</p>
                   <p className="text-white/60">
-                    contact@generaly-groupe.com
+                    contact@generaly.net
                   </p>
                 </div>
               </div>
@@ -59,7 +59,7 @@ export default function Contact() {
                 <div>
                   <p className="font-semibold">Téléphone</p>
                   <p className="text-white/60">
-                    À communiquer
+                    +33 7 53 20 41 36
                   </p>
                 </div>
               </div>
@@ -71,7 +71,7 @@ export default function Contact() {
                     Siège social
                   </p>
                   <p className="text-white/60">
-                    À communiquer
+                    60 RUE FRANCOIS IER, 75008, PARIS
                   </p>
                 </div>
               </div>
