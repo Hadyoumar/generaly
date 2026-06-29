@@ -19,6 +19,7 @@ export default function Hero() {
   return (
     <section className="bg-[#f7f5ef] px-5 pb-16 pt-28 md:px-6 md:pb-20 md:pt-32">
       <div className="mx-auto grid max-w-7xl items-center gap-12 lg:grid-cols-2 lg:gap-16">
+        {/* Colonne gauche */}
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.3em] text-[#0f3d91] md:text-sm md:tracking-[0.35em]">
             GENERALY GROUPE
@@ -62,8 +63,9 @@ export default function Hero() {
           </div>
         </div>
 
-        <div className="relative pb-10 md:pb-0">
-          <div className="overflow-hidden rounded-[1.5rem] shadow-2xl shadow-black/15 md:rounded-[2rem]">
+        {/* Colonne droite */}
+        <div className="relative">
+          <div className="overflow-hidden rounded-[2rem] shadow-2xl shadow-black/15">
             <Image
               src="/images/hero.jpg"
               alt="GENERALY GROUPE"
@@ -74,7 +76,8 @@ export default function Hero() {
             />
           </div>
 
-          <div className="mx-4 -mt-16 rounded-3xl bg-white p-6 shadow-2xl md:absolute md:-bottom-8 md:left-8 md:mx-0 md:mt-0 md:p-8">
+          {/* Carte Vision */}
+          <div className="mt-6 rounded-3xl bg-white p-6 shadow-2xl md:absolute md:-bottom-8 md:left-8 md:mt-0 md:max-w-sm md:p-8">
             <p className="text-xs font-semibold uppercase tracking-[0.3em] text-[#0f3d91]">
               Notre vision
             </p>
@@ -83,9 +86,10 @@ export default function Hero() {
               Développer des activités complémentaires.
             </h3>
 
-            <p className="mt-4 max-w-xs text-sm leading-7 text-black/60 md:text-base">
-              Une organisation construite autour d&apos;une vision commune, de
-              compétences complémentaires et d&apos;une création de valeur durable.
+            <p className="mt-4 text-sm leading-7 text-black/60 md:text-base">
+              Une organisation construite autour d&apos;une vision commune,
+              de compétences complémentaires et d&apos;une création de valeur
+              durable.
             </p>
           </div>
         </div>
